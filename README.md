@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python, C ,DSA, Database Management Concepts**
 
-- 📫 How to reach me **eshapal1711@gmail.com**
+- 📫 Reach out to me via **eshapal1711@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
